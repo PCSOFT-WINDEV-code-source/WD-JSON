@@ -1,0 +1,14 @@
+{
+	"Nom":"PRENCES",
+	"Prenom":"Elyne",
+	"DateDeNaissance":"1983-06-12",
+	"Telephone":{
+		"Fixe":"+33 1 23 45 67 89",
+		"Mobile":"+33 6 23 45 67 89"
+	},
+	"Emails":[
+		"prences.elyne@precilia.fr",
+		"ep@precilia.fr"
+	]
+
+}
